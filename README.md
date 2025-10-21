@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Meli
 
-<!--
-**melimataa/melimataa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Business & Technology Leader ☁️ Cloud | 🔐 Cybersecurity | 🤖 Artificial Intelligence
 
-Here are some ideas to get you started:
+🚀 Passionate about transforming innovation into opportunities that empower people.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently Working On
+
+Building hands-on projects in Cloud & AI Learning cybersecurity fundamentals Expanding my GitHub portfolio
+
+🌐 Connect with me
+
+LinkedIn: www.linkedin.com/in/melimataa | Portfolio: Under construction
