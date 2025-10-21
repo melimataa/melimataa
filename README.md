@@ -10,4 +10,4 @@ Building hands-on projects in Cloud & AI Learning cybersecurity fundamentals Exp
 
 🌐 Connect with me
 
-LinkedIn: www.linkedin.com/in/melimataa | Portfolio: Under construction
+LinkedIn: www.linkedin.com/in/melimataa
