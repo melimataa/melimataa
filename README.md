@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Meli
+# Hi, I'm Meli 👩🏼‍💻
 
 ☁️ Business & Technology Leader: Cloud | Cybersecurity |Artificial Intelligence
 
