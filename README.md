@@ -1,6 +1,6 @@
 # Hi, I'm Meli 👩🏼‍💻
 
-☁️ Business & Technology Leader: Cloud | Cybersecurity |Artificial Intelligence
+☁️ Business & Technology Leader: Cloud | Cybersecurity | Artificial Intelligence
 
 🚀 Passionate about transforming innovation into opportunities that empower people.
 
